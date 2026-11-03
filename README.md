@@ -115,5 +115,4 @@ Code and content in this repo are [MIT licensed](LICENSE).
 
 ---
 
-Created by **Shaz Moghaddam** · London
-[Website](https://shazmoghaddam.github.io/) · [LinkedIn](https://www.linkedin.com/in/shazmoghaddam)
+Shaz Moghaddam, https://shazmoghaddam.github.io/, London
