@@ -1,0 +1,24 @@
+{
+  "libraries": {
+    "name": "Public Libraries",
+    "published_by": "Connecticut State Library",
+    "published_at": "https://data.ct.gov/Government/Public-Libraries/kf75-36tt",
+    "listed_on": "https://catalog.data.gov/dataset/public-libraries",
+    "download": "https://data.ct.gov/api/views/kf75-36tt/rows.csv?accessType=DOWNLOAD",
+    "downloaded": "2026-11-03",
+    "last_updated_by_publisher": "2025-06-09",
+    "licence": "Public domain",
+    "covers": "Every public library in Connecticut, fiscal years 1996 to 2024. A fiscal year runs from July to June.",
+    "kept_in_repo": "data/raw/Public_Libraries.csv, unchanged"
+  },
+  "prices": {
+    "name": "Consumer Price Index for All Urban Consumers (CPI-U), US city average, all items, not seasonally adjusted",
+    "series": "CUUR0000SA0",
+    "published_by": "US Bureau of Labor Statistics",
+    "published_at": "https://www.bls.gov/cpi/",
+    "download": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=1995&endyear=2004 (and 2005-2014, 2015-2024)",
+    "downloaded": "2026-11-03",
+    "licence": "Public domain (US government work)",
+    "kept_in_repo": "data/raw/cpi_u.csv, monthly from January 1995 to December 2024"
+  }
+}
